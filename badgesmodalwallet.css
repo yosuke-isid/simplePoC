@@ -1,0 +1,1123 @@
+.badgesmodalwallet-container {
+  min-height: 100vh;
+}
+.badgesmodalwallet-badgesmodalwallet {
+  width: 100%;
+  height: 1246px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(248, 247, 247, 1);
+}
+.badgesmodalwallet-frame16 {
+  top: 303px;
+  left: -129px;
+  width: 1538px;
+  height: 687px;
+  position: absolute;
+}
+.badgesmodalwallet-text {
+  top: 93px;
+  left: 601px;
+  color: var(--dl-color-default-darkgray);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.badgesmodalwallet-text02 {
+  top: 144px;
+  left: 398px;
+  color: var(--dl-color-default-darkgray);
+  width: 644px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 50px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.badgesmodalwallet-button {
+  top: 22px;
+  left: 1192px;
+  width: 197px;
+  display: flex;
+  padding: 5px 40px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group11 {
+  width: 117px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-group14 {
+  top: 234px;
+  left: 439px;
+  width: 563px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-frame11 {
+  top: 0px;
+  left: 81px;
+  display: flex;
+  padding: 0 20px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(248, 247, 247, 1);
+}
+.badgesmodalwallet-text06 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.badgesmodalwallet-frame12 {
+  top: 0px;
+  left: 169px;
+  display: flex;
+  padding: 0 20px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(248, 247, 247, 1);
+}
+.badgesmodalwallet-text08 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.badgesmodalwallet-frame13 {
+  top: 0px;
+  left: 273px;
+  display: flex;
+  padding: 0 20px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(248, 247, 247, 1);
+}
+.badgesmodalwallet-text10 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.badgesmodalwallet-frame14 {
+  top: 0px;
+  left: 358px;
+  display: flex;
+  padding: 0 20px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(248, 247, 247, 1);
+}
+.badgesmodalwallet-text12 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.badgesmodalwallet-frame15 {
+  top: 0px;
+  left: 458px;
+  display: flex;
+  padding: 0 20px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(248, 247, 247, 1);
+}
+.badgesmodalwallet-text14 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.badgesmodalwallet-text16 {
+  color: var(--dl-color-default-darkgray);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-group13 {
+  top: 1185px;
+  left: 651px;
+  width: 138px;
+  height: 16.055936813354492px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-capa1 {
+  top: 0px;
+  left: 0px;
+  width: 138px;
+  height: 16px;
+  position: absolute;
+}
+.badgesmodalwallet-pledge {
+  top: 411px;
+  left: 151px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text18 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text20 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button1 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group111 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text22 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge1 {
+  top: 411px;
+  left: 444px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text24 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text26 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button2 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group112 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text28 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge2 {
+  top: 411px;
+  left: 737px;
+  width: 261px;
+  display: flex;
+  padding: 64px 21px 30px 21px;
+  position: absolute;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text30 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text32 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button3 {
+  display: flex;
+  padding: 5px 40px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group113 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text34 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge3 {
+  top: 411px;
+  left: 1030px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text36 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text38 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button4 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group114 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text40 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge4 {
+  top: 780px;
+  left: 151px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text42 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text44 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button5 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group115 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text46 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge5 {
+  top: 780px;
+  left: 444px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text48 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text50 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button6 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group116 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text52 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge6 {
+  top: 780px;
+  left: 737px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text54 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text56 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button7 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group117 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text58 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-pledge7 {
+  top: 780px;
+  left: 1030px;
+  width: 261px;
+  display: flex;
+  padding: 71px 21px 20px 21px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+.badgesmodalwallet-text60 {
+  color: var(--dl-color-default-darkgray);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-text62 {
+  color: rgba(107, 107, 107, 1);
+  width: 219px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.badgesmodalwallet-button8 {
+  display: flex;
+  opacity: 0.00;
+  padding: 2px 40px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green);
+}
+.badgesmodalwallet-group118 {
+  width: 52px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.badgesmodalwallet-text64 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.badgesmodalwallet-image30 {
+  top: 354px;
+  left: 231px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image31 {
+  top: 354px;
+  left: 525px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image32 {
+  top: 354px;
+  left: 818px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image33 {
+  top: 354px;
+  left: 1111px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image34 {
+  top: 723px;
+  left: 231px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image35 {
+  top: 723px;
+  left: 525px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image36 {
+  top: 723px;
+  left: 818px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-image37 {
+  top: 723px;
+  left: 1111px;
+  width: 100px;
+  height: 114px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1246px;
+  position: absolute;
+  border-color: transparent;
+}
+.badgesmodalwallet-wallet {
+  top: 373px;
+  left: 470px;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.badgesmodalwallet-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.badgesmodalwallet-vector {
+  top: 178px;
+  left: 175px;
+  width: 151px;
+  height: 143px;
+  position: absolute;
+}
+.badgesmodalwallet-materialsymbolsclose {
+  top: 15px;
+  left: 446px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
